@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApiSampleCode</string>
+    <string name="Enter">確定</string>
+    <string name="Cancel">取消</string>
+    <string name="Close">關閉</string>
+    <string name="Error">錯誤</string>
+</resources>
